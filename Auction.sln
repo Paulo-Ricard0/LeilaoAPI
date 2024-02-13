@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{068BE6AA-C89
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E76E55DF-8F46-46DB-8B96-03B4A559C4D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leilao.API", "src\Leilao.API\Leilao.API.csproj", "{FD808BDF-A056-4F51-9457-6181547A4C86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auction.API", "src\Leilao.API\Auction.API.csproj", "{FD808BDF-A056-4F51-9457-6181547A4C86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
